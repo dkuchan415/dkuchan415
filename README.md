@@ -1,5 +1,8 @@
-### Hi there 👋, I'm Daniel.
+### Hi, I'm Daniel.
 
+I've been working with data for over seven years in the Medical Supply and Payroll sectors. I made the jump into coding with a certification from Northwestern University in February 2021. Some areas of focus have been pricing, sales productivity, and product marketing analytics.
+
+Thanks for checking out my Github! 
 
 <!--
 **dkuchan415/dkuchan415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
